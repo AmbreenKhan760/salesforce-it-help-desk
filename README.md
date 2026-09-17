@@ -101,7 +101,9 @@ The dashboard gives administrators and support teams a quick view of ticket volu
 - Lightning Experience
 
 ## Screenshots
+### IT Help Desk Dashboard
 
+![IT Help Desk Dashboard](screenshots/Screenshot%202026-09-17%20153945.png)
 Screenshots demonstrating the dashboard, automation, validation rules, security configuration, support ticket records, and reports are available in the `screenshots` folder.
 
 ## Project Purpose
