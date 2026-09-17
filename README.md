@@ -103,7 +103,29 @@ The dashboard gives administrators and support teams a quick view of ticket volu
 ## Screenshots
 ### IT Help Desk Dashboard
 
-![IT Help Desk Dashboard](screenshots/Screenshot%202026-09-17%20153945.png)
+![IT Help Desk Dashboard](screenshots/Screenshot%202026-09-17%20153945.png)### Support Ticket Record
+
+![Support Ticket Record](screenshots/Screenshot%202026-09-17%20145031.png)
+
+### Due Date Automation Flow
+
+![Support Ticket Due Date Automation](screenshots/Screenshot%202026-09-17%20145216.png)
+
+### Validation Rule
+
+![Support Ticket Validation Rule](screenshots/Screenshot%202026-09-17%20145339.png)
+
+### Help Desk Agent - Object Permissions
+
+![Help Desk Agent Object Permissions](screenshots/Screenshot%202026-09-17%20154633.png)
+
+### Help Desk Agent - Field Permissions
+
+![Help Desk Agent Field Permissions](screenshots/Screenshot%202026-09-17%20154650.png)
+
+### Support Tickets by Priority Report
+
+![Support Tickets by Priority Report](screenshots/Screenshot%202026-09-17%20154811.png)
 Screenshots demonstrating the dashboard, automation, validation rules, security configuration, support ticket records, and reports are available in the `screenshots` folder.
 
 ## Project Purpose
